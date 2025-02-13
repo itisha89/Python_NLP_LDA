@@ -50,4 +50,7 @@ This project focuses on extracting insights from product review datasets through
 - **Topic Extraction**: The LDA model generated meaningful topics, which were further evaluated using coherence scores.
 - **Visualization**: pyLDAvis was used to visualize the topics interactively, and dependency parsing provided insights into the syntactic structure of sentences.
 
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
 
+---
